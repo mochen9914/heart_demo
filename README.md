@@ -1,4 +1,4 @@
-# 绯樱星尘之心 · Neon Stardust Heart ❤️
+# 星尘之心 · Neon Stardust Heart ❤️
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Stdlib%20Only)-ff4d79)
