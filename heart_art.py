@@ -1,5 +1,5 @@
 """
-绯樱星尘之心 (Neon Bloom Stardust Heart)
+星尘之心 (Neon Bloom Stardust Heart)
 ========================================
 纯 Python 标准库 (tkinter + math) 实时像素级加法发光 (Additive RGB Bloom) 渲染，无需安装第三方包。
 
@@ -37,7 +37,7 @@ CLAMP = bytes(range(256)) + b"\xff" * 512
 # 4 套高定发光配色方案（RGB 叠加权重经过专门调校，交叠处自然泛白发光）
 THEMES = [
     {
-        "name": "绯樱星尘 · Sakura Rose",
+        "name": "星尘 · Sakura Rose",
         "bg_rgb": (7, 3, 11),
         "glow_rgb": (28, 6, 20),
         "inner_rgb": (132, 24, 60),
@@ -134,7 +134,7 @@ class StardustHeartApp:
         self.root = root
         self.win_w = self.BUF_W
         self.win_h = self.BUF_H
-        self.root.title("绯樱星尘之心 · Neon Stardust Heart")
+        self.root.title("星尘之心 · Neon Stardust Heart")
 
         self.theme_idx = 0
         self.time_t = 0.0
