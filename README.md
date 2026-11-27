@@ -23,7 +23,7 @@
 
 ## 🎨 内置 4 套高定发光主题
 
-点击画面或按下空格键，即可在 **绯樱星尘（Sakura Rose）**、**炽恋真红（Ruby Flame）**、**星河蓝钻（Starry Sapphire）**、**鎏金香槟（Champagne Gold）** 四套主题间实时切换：
+点击画面或按下空格键，即可在 **星尘（Sakura Rose）**、**炽恋真红（Ruby Flame）**、**星河蓝钻（Starry Sapphire）**、**鎏金香槟（Champagne Gold）** 四套主题间实时切换：
 
 <p align="center">
   <img src="assets/themes.png" alt="Four Color Themes" width="820" />
